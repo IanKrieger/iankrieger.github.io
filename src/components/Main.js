@@ -53,7 +53,7 @@ class Main extends React.Component {
           <p>
             I like to make sure I'm up to date on current technology trends. One of the things that interests
             me the most is Machine Learning. I have actually built a small python script that processes
-            lines of text in a file and then creates it's own original output. Go ck it out on my github!
+            lines of text in a file and then creates it's own original output. Go check it out on my github!
             Another thing I really like is BlockChain, but not for Bitcoin. The idea of smart contracts helping 
             with transactions is something I am learning about and hoping to code, so be on the lookout. I
             also like AWS for infrastructure, I think any new app could be written to go to the cloud both quickly
